@@ -3,3 +3,4 @@ diploma
 
 Что умеем?
 
+asd
