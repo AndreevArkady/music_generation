@@ -1,6 +1,0 @@
-pillow 
-moviepy
-basic-pitch
-
-pandas
-music21
