@@ -1,0 +1,32 @@
+=====generate_samples====== /storage/arkady/Glinka/music_generation/glinka_server/code3/generation
+{'force_cpu': False,
+ 'generation_params': {'additional_features_params': {'author': '[UNK]',
+                                                      'genre': 'rock',
+                                                      'nnotes': {'enable': True,
+                                                                 'preset': None},
+                                                      'timing': 0},
+                       'generate_by_time': True,
+                       'n_generate': 10000,
+                       'presets': {'nnotes': False},
+                       'primary_params': {'duration': -1,
+                                          'n_tokens': -1,
+                                          'primary_path': ''},
+                       'sampler_params': {'control_temperature': False,
+                                          'std_window': 15,
+                                          'take_most_probable': False},
+                       'window_size': 2048},
+ 'model_weights': '/storage/arkady/Glinka/music_generation/glinka_server/model/epoch_0037.pickle',
+ 'random_seed': 3,
+ 'saving_options': {'output_dir': '/storage/arkady/Glinka/music_generation/glinka_server/manual_generated',
+                    'output_folder_name': 'music_orig_video_ad1',
+                    'save_mp3': True,
+                    'save_params': True,
+                    'save_primary': True}}
+------ /storage/arkady/Glinka/music_generation/glinka_server/code3/generation
+FluidSynth runtime version 2.3.4
+Copyright (C) 2000-2023 Peter Hanappe and others.
+Distributed under the LGPL license.
+SoundFont(R) is a registered trademark of Creative Technology Ltd.
+
+Rendering audio to file '/storage/arkady/Glinka/music_generation/glinka_server/manual_generated/music_orig_video_ad1.wav'..
+======= /storage/arkady/Glinka/music_generation/glinka_server/manual_generated music_orig_video_ad1

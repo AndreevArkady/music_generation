@@ -1,0 +1,7 @@
+{
+    "model_weights": "./saved_models/model.pickle",
+    "n_workers": 1,
+    "batch_size":  4,
+    "seed": 322,
+    "force_cpu": false
+}

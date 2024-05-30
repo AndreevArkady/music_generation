@@ -1,0 +1,21 @@
+Metadata-Version: 2.1
+Name: key-frame-detector
+Version: 1.0.0
+Summary: It is a simple python tool to extract key frame images from a video file
+Home-page: https://github.com/joelibaceta/video-keyframe-extractor
+Author: Joel Ibaceta
+Author-email: mail@joelibaceta.com
+License: MIT
+Project-URL: Source, https://github.com/joelibaceta/video-keyframe-extractor
+Project-URL: Tracker, https://github.com/joelibaceta/video-keyframe-extractor/issues
+Keywords: video key-frame terminal opencv extractor
+Classifier: Programming Language :: Python :: 3
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+License-File: LICENSE
+Requires-Dist: opencv-python
+Requires-Dist: numpy
+Requires-Dist: peakutils
+
+A simple tool to detect and extract key frame images from a video file

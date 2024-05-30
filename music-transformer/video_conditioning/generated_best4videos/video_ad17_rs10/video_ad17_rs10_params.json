@@ -1,0 +1,187 @@
+{
+    "force_cpu": false,
+    "generation_params": {
+        "additional_features_params": {
+            "timing": 5632,
+            "nnotes": {
+                "enable": true,
+                "preset": [
+                    {
+                        "borders": [
+                            0,
+                            11
+                        ],
+                        "value": 1
+                    },
+                    {
+                        "borders": [
+                            11,
+                            16
+                        ],
+                        "value": 2
+                    },
+                    {
+                        "borders": [
+                            16,
+                            21
+                        ],
+                        "value": 3
+                    },
+                    {
+                        "borders": [
+                            21,
+                            26
+                        ],
+                        "value": 4
+                    },
+                    {
+                        "borders": [
+                            26,
+                            31
+                        ],
+                        "value": 5
+                    },
+                    {
+                        "borders": [
+                            31,
+                            36
+                        ],
+                        "value": 6
+                    },
+                    {
+                        "borders": [
+                            36,
+                            41
+                        ],
+                        "value": 7
+                    },
+                    {
+                        "borders": [
+                            41,
+                            51
+                        ],
+                        "value": 8
+                    },
+                    {
+                        "borders": [
+                            51,
+                            56
+                        ],
+                        "value": 7
+                    },
+                    {
+                        "borders": [
+                            56,
+                            61
+                        ],
+                        "value": 6
+                    },
+                    {
+                        "borders": [
+                            61,
+                            71
+                        ],
+                        "value": 5
+                    },
+                    {
+                        "borders": [
+                            71,
+                            77
+                        ],
+                        "value": 6
+                    },
+                    {
+                        "borders": [
+                            77,
+                            82
+                        ],
+                        "value": 7
+                    },
+                    {
+                        "borders": [
+                            82,
+                            92
+                        ],
+                        "value": 8
+                    },
+                    {
+                        "borders": [
+                            92,
+                            96
+                        ],
+                        "value": 7
+                    },
+                    {
+                        "borders": [
+                            96,
+                            106
+                        ],
+                        "value": 8
+                    },
+                    {
+                        "borders": [
+                            106,
+                            111
+                        ],
+                        "value": 7
+                    },
+                    {
+                        "borders": [
+                            111,
+                            116
+                        ],
+                        "value": 6
+                    },
+                    {
+                        "borders": [
+                            116,
+                            121
+                        ],
+                        "value": 5
+                    },
+                    {
+                        "borders": [
+                            121,
+                            126
+                        ],
+                        "value": 4
+                    },
+                    {
+                        "borders": [
+                            126,
+                            128
+                        ],
+                        "value": 3
+                    }
+                ]
+            },
+            "genre": "[UNK]",
+            "author": "[UNK]"
+        },
+        "n_generate": 10000,
+        "window_size": 2048,
+        "primary_params": {
+            "primary_path": "",
+            "n_tokens": -1,
+            "duration": -1
+        },
+        "sampler_params": {
+            "take_most_probable": false,
+            "control_temperature": false,
+            "std_window": 15
+        },
+        "generate_by_time": true,
+        "presets": {
+            "nnotes": false
+        }
+    },
+    "model_weights": "/storage/arkady/Glinka/music-transformer/video_conditioning/model/epoch_0037.pickle",
+    "random_seed": 10,
+    "saving_options": {
+        "output_dir": "/storage/arkady/Glinka/music-transformer/video_conditioning/best4videos",
+        "output_folder_name": "video_ad17_rs10",
+        "save_params": true,
+        "save_primary": true,
+        "save_mp3": true
+    }
+}

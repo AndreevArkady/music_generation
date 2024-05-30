@@ -1,0 +1,23 @@
+{
+    "shift_volume": {
+        "enabled": true,
+        "shift_range": [-3, 3]
+    },
+    "shift_tones": {
+        "enabled": false
+    },
+    "move_octave": {
+        "enabled": false,
+        "octaves_shifts": [-2, -1, 0, 1, 2],
+        "shifts_probabilities": [0.1, 0.2, 0.4, 0.2, 0.1]
+    },
+    "change_tempo": {
+        "enabled": true,
+        "mean": 1,
+        "scale": 0.3
+    },
+    "shift_velocity": {
+        "enabled": true,
+        "shift_range": [0.99, 1.01]
+    }
+}

@@ -1,0 +1,11 @@
+numpy==1.22.4
+wemake-python-styleguide==0.17.0
+midi2audio==0.1.1
+pydub==0.25.1
+torch==2.0.1
+pandas==1.5.3
+pretty_midi==0.2.9
+tokenizers==0.13.3
+tqdm==4.64.1
+midi2audio==0.1.1
+wandb==0.15.12

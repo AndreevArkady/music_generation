@@ -1,0 +1,28 @@
+{
+    "input_dir": "/data/datasets/e_piano_small/midis",
+    "output_dir": "/data/datasets/e_piano_small_kek",
+    "ignore_warnings": true,
+    "n_pools": 23,
+    "random_state": 0,
+    "processor_args": {
+        "drop_pauses": true,
+        "append_silence": 0
+    },
+    "local_features_params": {
+        "sentiments": false,
+        "timings": true,
+        "nnotes": true,
+        "rel_pos": false,
+        "token_type": false,
+        "note_type": false,
+        "notes_duration": false,
+        "harmony_labeling_path": null, 
+        "harmony": false,
+        "sentiments": false,
+        "tonality": false
+    },
+    "global_features_params": {
+        "genre": true,
+        "author": true
+    }
+}

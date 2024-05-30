@@ -1,0 +1,604 @@
+[
+    {
+        "borders": [
+            0,
+            1
+        ],
+        "value": 8
+    },
+    {
+        "borders": [
+            1,
+            2
+        ],
+        "value": 6
+    },
+    {
+        "borders": [
+            2,
+            3
+        ],
+        "value": 4
+    },
+    {
+        "borders": [
+            3,
+            5
+        ],
+        "value": 3
+    },
+    {
+        "borders": [
+            5,
+            6
+        ],
+        "value": 2
+    },
+    {
+        "borders": [
+            6,
+            7
+        ],
+        "value": 3
+    },
+    {
+        "borders": [
+            7,
+            8
+        ],
+        "value": 4
+    },
+    {
+        "borders": [
+            8,
+            9
+        ],
+        "value": 5
+    },
+    {
+        "borders": [
+            9,
+            11
+        ],
+        "value": 6
+    },
+    {
+        "borders": [
+            11,
+            12
+        ],
+        "value": 5
+    },
+    {
+        "borders": [
+            12,
+            13
+        ],
+        "value": 4
+    },
+    {
+        "borders": [
+            13,
+            14
+        ],
+        "value": 3
+    },
+    {
+        "borders": [
+            14,
+            15
+        ],
+        "value": 2
+    },
+    {
+        "borders": [
+            15,
+            16
+        ],
+        "value": 3
+    },
+    {
+        "borders": [
+            16,
+            17
+        ],
+        "value": 4
+    },
+    {
+        "borders": [
+            17,
+            18
+        ],
+        "value": 5
+    },
+    {
+        "borders": [
+            18,
+            19
+        ],
+        "value": 6
+    },
+    {
+        "borders": [
+            19,
+            20
+        ],
+        "value": 7
+    },
+    {
+        "borders": [
+            20,
+            21
+        ],
+        "value": 5
+    },
+    {
+        "borders": [
+            21,
+            23
+        ],
+        "value": 4
+    },
+    {
+        "borders": [
+            23,
+            24
+        ],
+        "value": 5
+    },
+    {
+        "borders": [
+            24,
+            25
+        ],
+        "value": 7
+    },
+    {
+        "borders": [
+            25,
+            26
+        ],
+        "value": 6
+    },
+    {
+        "borders": [
+            26,
+            27
+        ],
+        "value": 5
+    },
+    {
+        "borders": [
+            27,
+            28
+        ],
+        "value": 4
+    },
+    {
+        "borders": [
+            28,
+            29
+        ],
+        "value": 3
+    },
+    {
+        "borders": [
+            29,
+            30
+        ],
+        "value": 2
+    },
+    {
+        "borders": [
+            30,
+            35
+        ],
+        "value": 1
+    },
+    {
+        "borders": [
+            35,
+            36
+        ],
+        "value": 2
+    },
+    {
+        "borders": [
+            36,
+            37
+        ],
+        "value": 3
+    },
+    {
+        "borders": [
+            37,
+            38
+        ],
+        "value": 4
+    },
+    {
+        "borders": [
+            38,
+            39
+        ],
+        "value": 5
+    },
+    {
+        "borders": [
+            39,
+            41
+        ],
+        "value": 6
+    },
+    {
+        "borders": [
+            41,
+            42
+        ],
+        "value": 5
+    },
+    {
+        "borders": [
+            42,
+            43
+        ],
+        "value": 4
+    },
+    {
+        "borders": [
+            43,
+            44
+        ],
+        "value": 3
+    },
+    {
+        "borders": [
+            44,
+            45
+        ],
+        "value": 2
+    },
+    {
+        "borders": [
+            45,
+            53
+        ],
+        "value": 1
+    },
+    {
+        "borders": [
+            53,
+            54
+        ],
+        "value": 2
+    },
+    {
+        "borders": [
+            54,
+            55
+        ],
+        "value": 3
+    },
+    {
+        "borders": [
+            55,
+            56
+        ],
+        "value": 4
+    },
+    {
+        "borders": [
+            56,
+            57
+        ],
+        "value": 5
+    },
+    {
+        "borders": [
+            57,
+            59
+        ],
+        "value": 6
+    },
+    {
+        "borders": [
+            59,
+            61
+        ],
+        "value": 5
+    },
+    {
+        "borders": [
+            61,
+            63
+        ],
+        "value": 6
+    },
+    {
+        "borders": [
+            63,
+            64
+        ],
+        "value": 5
+    },
+    {
+        "borders": [
+            64,
+            65
+        ],
+        "value": 4
+    },
+    {
+        "borders": [
+            65,
+            66
+        ],
+        "value": 3
+    },
+    {
+        "borders": [
+            66,
+            67
+        ],
+        "value": 2
+    },
+    {
+        "borders": [
+            67,
+            75
+        ],
+        "value": 1
+    },
+    {
+        "borders": [
+            75,
+            76
+        ],
+        "value": 2
+    },
+    {
+        "borders": [
+            76,
+            77
+        ],
+        "value": 3
+    },
+    {
+        "borders": [
+            77,
+            78
+        ],
+        "value": 4
+    },
+    {
+        "borders": [
+            78,
+            79
+        ],
+        "value": 5
+    },
+    {
+        "borders": [
+            79,
+            81
+        ],
+        "value": 6
+    },
+    {
+        "borders": [
+            81,
+            82
+        ],
+        "value": 5
+    },
+    {
+        "borders": [
+            82,
+            83
+        ],
+        "value": 4
+    },
+    {
+        "borders": [
+            83,
+            84
+        ],
+        "value": 5
+    },
+    {
+        "borders": [
+            84,
+            85
+        ],
+        "value": 6
+    },
+    {
+        "borders": [
+            85,
+            86
+        ],
+        "value": 7
+    },
+    {
+        "borders": [
+            86,
+            87
+        ],
+        "value": 5
+    },
+    {
+        "borders": [
+            87,
+            88
+        ],
+        "value": 4
+    },
+    {
+        "borders": [
+            88,
+            89
+        ],
+        "value": 3
+    },
+    {
+        "borders": [
+            89,
+            91
+        ],
+        "value": 2
+    },
+    {
+        "borders": [
+            91,
+            92
+        ],
+        "value": 1
+    },
+    {
+        "borders": [
+            92,
+            93
+        ],
+        "value": 2
+    },
+    {
+        "borders": [
+            93,
+            94
+        ],
+        "value": 3
+    },
+    {
+        "borders": [
+            94,
+            95
+        ],
+        "value": 4
+    },
+    {
+        "borders": [
+            95,
+            96
+        ],
+        "value": 5
+    },
+    {
+        "borders": [
+            96,
+            98
+        ],
+        "value": 6
+    },
+    {
+        "borders": [
+            98,
+            99
+        ],
+        "value": 5
+    },
+    {
+        "borders": [
+            99,
+            100
+        ],
+        "value": 4
+    },
+    {
+        "borders": [
+            100,
+            101
+        ],
+        "value": 3
+    },
+    {
+        "borders": [
+            101,
+            102
+        ],
+        "value": 2
+    },
+    {
+        "borders": [
+            102,
+            113
+        ],
+        "value": 1
+    },
+    {
+        "borders": [
+            113,
+            115
+        ],
+        "value": 2
+    },
+    {
+        "borders": [
+            115,
+            116
+        ],
+        "value": 3
+    },
+    {
+        "borders": [
+            116,
+            117
+        ],
+        "value": 4
+    },
+    {
+        "borders": [
+            117,
+            118
+        ],
+        "value": 5
+    },
+    {
+        "borders": [
+            118,
+            119
+        ],
+        "value": 7
+    },
+    {
+        "borders": [
+            119,
+            120
+        ],
+        "value": 6
+    },
+    {
+        "borders": [
+            120,
+            121
+        ],
+        "value": 5
+    },
+    {
+        "borders": [
+            121,
+            122
+        ],
+        "value": 4
+    },
+    {
+        "borders": [
+            122,
+            123
+        ],
+        "value": 3
+    },
+    {
+        "borders": [
+            123,
+            124
+        ],
+        "value": 2
+    },
+    {
+        "borders": [
+            124,
+            128
+        ],
+        "value": 1
+    }
+]

@@ -1,0 +1,100 @@
+[
+    {
+        "borders": [
+            0,
+            5
+        ],
+        "value": 6
+    },
+    {
+        "borders": [
+            5,
+            16
+        ],
+        "value": 7
+    },
+    {
+        "borders": [
+            16,
+            26
+        ],
+        "value": 8
+    },
+    {
+        "borders": [
+            26,
+            28
+        ],
+        "value": 9
+    },
+    {
+        "borders": [
+            28,
+            29
+        ],
+        "value": 8
+    },
+    {
+        "borders": [
+            29,
+            30
+        ],
+        "value": 9
+    },
+    {
+        "borders": [
+            30,
+            41
+        ],
+        "value": 8
+    },
+    {
+        "borders": [
+            41,
+            52
+        ],
+        "value": 7
+    },
+    {
+        "borders": [
+            52,
+            62
+        ],
+        "value": 6
+    },
+    {
+        "borders": [
+            62,
+            73
+        ],
+        "value": 5
+    },
+    {
+        "borders": [
+            73,
+            84
+        ],
+        "value": 4
+    },
+    {
+        "borders": [
+            84,
+            95
+        ],
+        "value": 3
+    },
+    {
+        "borders": [
+            95,
+            106
+        ],
+        "value": 2
+    },
+    {
+        "borders": [
+            106,
+            128
+        ],
+        "value": 1
+    }
+]

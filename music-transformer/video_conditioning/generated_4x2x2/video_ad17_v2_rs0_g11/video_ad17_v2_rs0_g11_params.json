@@ -1,0 +1,110 @@
+{
+    "force_cpu": false,
+    "generation_params": {
+        "additional_features_params": {
+            "timing": 5632,
+            "nnotes": {
+                "enable": true,
+                "preset": [
+                    {
+                        "borders": [
+                            0,
+                            1
+                        ],
+                        "value": 3
+                    },
+                    {
+                        "borders": [
+                            1,
+                            3
+                        ],
+                        "value": 2
+                    },
+                    {
+                        "borders": [
+                            3,
+                            5
+                        ],
+                        "value": 1
+                    },
+                    {
+                        "borders": [
+                            5,
+                            16
+                        ],
+                        "value": 2
+                    },
+                    {
+                        "borders": [
+                            16,
+                            56
+                        ],
+                        "value": 1
+                    },
+                    {
+                        "borders": [
+                            56,
+                            61
+                        ],
+                        "value": 2
+                    },
+                    {
+                        "borders": [
+                            61,
+                            98
+                        ],
+                        "value": 1
+                    },
+                    {
+                        "borders": [
+                            98,
+                            104
+                        ],
+                        "value": 2
+                    },
+                    {
+                        "borders": [
+                            104,
+                            122
+                        ],
+                        "value": 1
+                    },
+                    {
+                        "borders": [
+                            122,
+                            128
+                        ],
+                        "value": 2
+                    }
+                ]
+            },
+            "genre": "[UNK]",
+            "author": "[UNK]"
+        },
+        "n_generate": 10000,
+        "window_size": 2048,
+        "primary_params": {
+            "primary_path": "",
+            "n_tokens": -1,
+            "duration": -1
+        },
+        "sampler_params": {
+            "take_most_probable": false,
+            "control_temperature": false,
+            "std_window": 15
+        },
+        "generate_by_time": true,
+        "presets": {
+            "nnotes": false
+        }
+    },
+    "model_weights": "/storage/arkady/Glinka/music-transformer/video_conditioning/model/epoch_0037.pickle",
+    "random_seed": 0,
+    "saving_options": {
+        "output_dir": "/storage/arkady/Glinka/music-transformer/video_conditioning/generated_4x2x2",
+        "output_folder_name": "video_ad17_v2_rs0_g11",
+        "save_params": true,
+        "save_primary": true,
+        "save_mp3": true
+    }
+}

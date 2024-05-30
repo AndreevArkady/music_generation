@@ -1,0 +1,39 @@
+{
+    "force_cpu": false,
+    "generation_params": {
+        "additional_features_params": {
+            "timing": 0,
+            "nnotes": {
+                "enable": true,
+                "preset": null
+            },
+            "genre": "rock",
+            "author": "[UNK]"
+        },
+        "n_generate": 10000,
+        "window_size": 2048,
+        "primary_params": {
+            "primary_path": "",
+            "n_tokens": -1,
+            "duration": -1
+        },
+        "sampler_params": {
+            "take_most_probable": false,
+            "control_temperature": false,
+            "std_window": 15
+        },
+        "generate_by_time": true,
+        "presets": {
+            "nnotes": false
+        }
+    },
+    "model_weights": "/storage/arkady/Glinka/music_generation/glinka_server/model/epoch_0037.pickle",
+    "random_seed": 3,
+    "saving_options": {
+        "output_dir": "/storage/arkady/Glinka/music_generation/glinka_server/manual_generated",
+        "output_folder_name": "music_orig_video_ad1",
+        "save_params": true,
+        "save_primary": true,
+        "save_mp3": true
+    }
+}

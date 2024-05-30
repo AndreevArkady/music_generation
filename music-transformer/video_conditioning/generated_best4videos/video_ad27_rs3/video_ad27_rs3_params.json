@@ -1,0 +1,138 @@
+{
+    "force_cpu": false,
+    "generation_params": {
+        "additional_features_params": {
+            "timing": 5632,
+            "nnotes": {
+                "enable": true,
+                "preset": [
+                    {
+                        "borders": [
+                            0,
+                            5
+                        ],
+                        "value": 6
+                    },
+                    {
+                        "borders": [
+                            5,
+                            16
+                        ],
+                        "value": 7
+                    },
+                    {
+                        "borders": [
+                            16,
+                            26
+                        ],
+                        "value": 8
+                    },
+                    {
+                        "borders": [
+                            26,
+                            28
+                        ],
+                        "value": 9
+                    },
+                    {
+                        "borders": [
+                            28,
+                            29
+                        ],
+                        "value": 8
+                    },
+                    {
+                        "borders": [
+                            29,
+                            30
+                        ],
+                        "value": 9
+                    },
+                    {
+                        "borders": [
+                            30,
+                            41
+                        ],
+                        "value": 8
+                    },
+                    {
+                        "borders": [
+                            41,
+                            52
+                        ],
+                        "value": 7
+                    },
+                    {
+                        "borders": [
+                            52,
+                            62
+                        ],
+                        "value": 6
+                    },
+                    {
+                        "borders": [
+                            62,
+                            73
+                        ],
+                        "value": 5
+                    },
+                    {
+                        "borders": [
+                            73,
+                            84
+                        ],
+                        "value": 4
+                    },
+                    {
+                        "borders": [
+                            84,
+                            95
+                        ],
+                        "value": 3
+                    },
+                    {
+                        "borders": [
+                            95,
+                            106
+                        ],
+                        "value": 2
+                    },
+                    {
+                        "borders": [
+                            106,
+                            128
+                        ],
+                        "value": 1
+                    }
+                ]
+            },
+            "genre": "[UNK]",
+            "author": "[UNK]"
+        },
+        "n_generate": 10000,
+        "window_size": 2048,
+        "primary_params": {
+            "primary_path": "",
+            "n_tokens": -1,
+            "duration": -1
+        },
+        "sampler_params": {
+            "take_most_probable": false,
+            "control_temperature": false,
+            "std_window": 15
+        },
+        "generate_by_time": true,
+        "presets": {
+            "nnotes": false
+        }
+    },
+    "model_weights": "/storage/arkady/Glinka/music-transformer/video_conditioning/model/epoch_0037.pickle",
+    "random_seed": 3,
+    "saving_options": {
+        "output_dir": "/storage/arkady/Glinka/music-transformer/video_conditioning/best4videos",
+        "output_folder_name": "video_ad27_rs3",
+        "save_params": true,
+        "save_primary": true,
+        "save_mp3": true
+    }
+}

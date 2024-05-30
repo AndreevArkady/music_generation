@@ -1,0 +1,10 @@
+generated_4x2x2/video_ad5/video_ad5.mid
+0.3888888888888889
+generated_4x2x2/video_ad14/video_ad14.mid
+0.25
+generated_4x2x2/video_ad25/video_ad25.mid
+0.2962962962962963
+generated_4x2x2/video_ad32/video_ad32.mid
+0.18181818181818182
+generated_4x2x2/video_ad38/video_ad38.mid
+0.26666666666666666

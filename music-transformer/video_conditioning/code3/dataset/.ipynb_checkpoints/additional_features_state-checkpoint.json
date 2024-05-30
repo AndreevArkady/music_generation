@@ -1,0 +1,45 @@
+{
+    "additional_features_params": {
+        "global": {
+            "genre": true,
+            "author": true
+        },
+        "local": {
+            "timing": true,
+            "nnotes": true,
+            "token_type": false,
+            "note_type": false,
+            "notes_duration": false
+        }
+    },
+    "local_features_columns_count": 2,
+    "global_features_columns_count": 2,
+    "local_features_indices": {
+        "nnotes": [
+            0,
+            1
+        ],
+        "timing": [
+            1,
+            2
+        ]
+    },
+    "global_features_indices": {
+        "genre": [
+            0,
+            1
+        ],
+        "author": [
+            1,
+            2
+        ]
+    },
+    "tokenizers": {
+        "genre": "/storage/arkady/Glinka/music_generation/glinka_server/e_piano_small_kek/genre-tokenizer.json",
+        "author": "/storage/arkady/Glinka/music_generation/glinka_server/e_piano_small_kek/author-tokenizer.json"
+    },
+    "vocab_sizes": {
+        "timing": 128,
+        "nnotes": 11
+    }
+}

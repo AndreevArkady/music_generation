@@ -1,0 +1,16 @@
+{
+    "no_tensorboard": false,
+    "continue_weights": null,
+    "continue_epoch": null,
+    "lr": null,
+    "ce_smoothing": null,
+    "output_dir": "./saved_models",
+    "weight_modulus": 1,
+    "print_modulus": 1,
+    "n_workers": 8,
+    "batch_size":  4,
+    "epochs": 20,
+    "wandb_project_name": "music_transformer",
+    "seed": 322,
+    "force_cpu": false
+}

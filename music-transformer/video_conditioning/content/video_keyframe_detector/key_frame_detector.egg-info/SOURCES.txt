@@ -1,0 +1,11 @@
+LICENSE
+setup.py
+KeyFrameDetector/__init__.py
+KeyFrameDetector/key_frame_detector.py
+KeyFrameDetector/utils.py
+key_frame_detector.egg-info/PKG-INFO
+key_frame_detector.egg-info/SOURCES.txt
+key_frame_detector.egg-info/dependency_links.txt
+key_frame_detector.egg-info/entry_points.txt
+key_frame_detector.egg-info/requires.txt
+key_frame_detector.egg-info/top_level.txt

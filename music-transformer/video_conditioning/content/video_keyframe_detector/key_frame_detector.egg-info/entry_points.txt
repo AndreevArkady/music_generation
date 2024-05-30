@@ -1,0 +1,2 @@
+[console_scripts]
+key-frames-detector = cli:main

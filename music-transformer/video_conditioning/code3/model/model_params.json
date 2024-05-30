@@ -1,0 +1,9 @@
+{
+  "n_layers": 12,
+  "num_heads": 12,
+  "d_model": 768,
+  "dim_feedforward": 1536,
+  "max_sequence": 2048,
+  "rpr": true,
+  "dropout": 0.1
+}

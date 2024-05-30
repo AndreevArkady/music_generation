@@ -1,0 +1,579 @@
+{
+    "force_cpu": false,
+    "generation_params": {
+        "additional_features_params": {
+            "timing": 5632,
+            "nnotes": {
+                "enable": true,
+                "preset": [
+                    {
+                        "borders": [
+                            0,
+                            2
+                        ],
+                        "value": 7
+                    },
+                    {
+                        "borders": [
+                            2,
+                            4
+                        ],
+                        "value": 8
+                    },
+                    {
+                        "borders": [
+                            4,
+                            5
+                        ],
+                        "value": 7
+                    },
+                    {
+                        "borders": [
+                            5,
+                            6
+                        ],
+                        "value": 8
+                    },
+                    {
+                        "borders": [
+                            6,
+                            7
+                        ],
+                        "value": 9
+                    },
+                    {
+                        "borders": [
+                            7,
+                            8
+                        ],
+                        "value": 8
+                    },
+                    {
+                        "borders": [
+                            8,
+                            10
+                        ],
+                        "value": 7
+                    },
+                    {
+                        "borders": [
+                            10,
+                            13
+                        ],
+                        "value": 8
+                    },
+                    {
+                        "borders": [
+                            13,
+                            16
+                        ],
+                        "value": 7
+                    },
+                    {
+                        "borders": [
+                            16,
+                            18
+                        ],
+                        "value": 8
+                    },
+                    {
+                        "borders": [
+                            18,
+                            20
+                        ],
+                        "value": 7
+                    },
+                    {
+                        "borders": [
+                            20,
+                            24
+                        ],
+                        "value": 8
+                    },
+                    {
+                        "borders": [
+                            24,
+                            25
+                        ],
+                        "value": 10
+                    },
+                    {
+                        "borders": [
+                            25,
+                            26
+                        ],
+                        "value": 8
+                    },
+                    {
+                        "borders": [
+                            26,
+                            27
+                        ],
+                        "value": 7
+                    },
+                    {
+                        "borders": [
+                            27,
+                            28
+                        ],
+                        "value": 6
+                    },
+                    {
+                        "borders": [
+                            28,
+                            29
+                        ],
+                        "value": 7
+                    },
+                    {
+                        "borders": [
+                            29,
+                            30
+                        ],
+                        "value": 8
+                    },
+                    {
+                        "borders": [
+                            30,
+                            31
+                        ],
+                        "value": 9
+                    },
+                    {
+                        "borders": [
+                            31,
+                            32
+                        ],
+                        "value": 8
+                    },
+                    {
+                        "borders": [
+                            32,
+                            33
+                        ],
+                        "value": 7
+                    },
+                    {
+                        "borders": [
+                            33,
+                            35
+                        ],
+                        "value": 6
+                    },
+                    {
+                        "borders": [
+                            35,
+                            36
+                        ],
+                        "value": 5
+                    },
+                    {
+                        "borders": [
+                            36,
+                            37
+                        ],
+                        "value": 4
+                    },
+                    {
+                        "borders": [
+                            37,
+                            39
+                        ],
+                        "value": 3
+                    },
+                    {
+                        "borders": [
+                            39,
+                            41
+                        ],
+                        "value": 2
+                    },
+                    {
+                        "borders": [
+                            41,
+                            42
+                        ],
+                        "value": 3
+                    },
+                    {
+                        "borders": [
+                            42,
+                            44
+                        ],
+                        "value": 4
+                    },
+                    {
+                        "borders": [
+                            44,
+                            45
+                        ],
+                        "value": 5
+                    },
+                    {
+                        "borders": [
+                            45,
+                            47
+                        ],
+                        "value": 6
+                    },
+                    {
+                        "borders": [
+                            47,
+                            48
+                        ],
+                        "value": 7
+                    },
+                    {
+                        "borders": [
+                            48,
+                            51
+                        ],
+                        "value": 8
+                    },
+                    {
+                        "borders": [
+                            51,
+                            52
+                        ],
+                        "value": 7
+                    },
+                    {
+                        "borders": [
+                            52,
+                            54
+                        ],
+                        "value": 6
+                    },
+                    {
+                        "borders": [
+                            54,
+                            55
+                        ],
+                        "value": 5
+                    },
+                    {
+                        "borders": [
+                            55,
+                            56
+                        ],
+                        "value": 4
+                    },
+                    {
+                        "borders": [
+                            56,
+                            59
+                        ],
+                        "value": 3
+                    },
+                    {
+                        "borders": [
+                            59,
+                            60
+                        ],
+                        "value": 4
+                    },
+                    {
+                        "borders": [
+                            60,
+                            61
+                        ],
+                        "value": 5
+                    },
+                    {
+                        "borders": [
+                            61,
+                            63
+                        ],
+                        "value": 6
+                    },
+                    {
+                        "borders": [
+                            63,
+                            64
+                        ],
+                        "value": 7
+                    },
+                    {
+                        "borders": [
+                            64,
+                            67
+                        ],
+                        "value": 8
+                    },
+                    {
+                        "borders": [
+                            67,
+                            68
+                        ],
+                        "value": 7
+                    },
+                    {
+                        "borders": [
+                            68,
+                            70
+                        ],
+                        "value": 6
+                    },
+                    {
+                        "borders": [
+                            70,
+                            71
+                        ],
+                        "value": 5
+                    },
+                    {
+                        "borders": [
+                            71,
+                            75
+                        ],
+                        "value": 4
+                    },
+                    {
+                        "borders": [
+                            75,
+                            76
+                        ],
+                        "value": 5
+                    },
+                    {
+                        "borders": [
+                            76,
+                            78
+                        ],
+                        "value": 6
+                    },
+                    {
+                        "borders": [
+                            78,
+                            79
+                        ],
+                        "value": 7
+                    },
+                    {
+                        "borders": [
+                            79,
+                            82
+                        ],
+                        "value": 8
+                    },
+                    {
+                        "borders": [
+                            82,
+                            83
+                        ],
+                        "value": 7
+                    },
+                    {
+                        "borders": [
+                            83,
+                            85
+                        ],
+                        "value": 6
+                    },
+                    {
+                        "borders": [
+                            85,
+                            87
+                        ],
+                        "value": 5
+                    },
+                    {
+                        "borders": [
+                            87,
+                            89
+                        ],
+                        "value": 6
+                    },
+                    {
+                        "borders": [
+                            89,
+                            90
+                        ],
+                        "value": 7
+                    },
+                    {
+                        "borders": [
+                            90,
+                            93
+                        ],
+                        "value": 8
+                    },
+                    {
+                        "borders": [
+                            93,
+                            94
+                        ],
+                        "value": 7
+                    },
+                    {
+                        "borders": [
+                            94,
+                            96
+                        ],
+                        "value": 6
+                    },
+                    {
+                        "borders": [
+                            96,
+                            97
+                        ],
+                        "value": 5
+                    },
+                    {
+                        "borders": [
+                            97,
+                            99
+                        ],
+                        "value": 4
+                    },
+                    {
+                        "borders": [
+                            99,
+                            100
+                        ],
+                        "value": 5
+                    },
+                    {
+                        "borders": [
+                            100,
+                            102
+                        ],
+                        "value": 6
+                    },
+                    {
+                        "borders": [
+                            102,
+                            103
+                        ],
+                        "value": 7
+                    },
+                    {
+                        "borders": [
+                            103,
+                            104
+                        ],
+                        "value": 8
+                    },
+                    {
+                        "borders": [
+                            104,
+                            105
+                        ],
+                        "value": 10
+                    },
+                    {
+                        "borders": [
+                            105,
+                            109
+                        ],
+                        "value": 8
+                    },
+                    {
+                        "borders": [
+                            109,
+                            110
+                        ],
+                        "value": 7
+                    },
+                    {
+                        "borders": [
+                            110,
+                            112
+                        ],
+                        "value": 6
+                    },
+                    {
+                        "borders": [
+                            112,
+                            113
+                        ],
+                        "value": 7
+                    },
+                    {
+                        "borders": [
+                            113,
+                            116
+                        ],
+                        "value": 8
+                    },
+                    {
+                        "borders": [
+                            116,
+                            118
+                        ],
+                        "value": 7
+                    },
+                    {
+                        "borders": [
+                            118,
+                            119
+                        ],
+                        "value": 6
+                    },
+                    {
+                        "borders": [
+                            119,
+                            121
+                        ],
+                        "value": 5
+                    },
+                    {
+                        "borders": [
+                            121,
+                            122
+                        ],
+                        "value": 4
+                    },
+                    {
+                        "borders": [
+                            122,
+                            123
+                        ],
+                        "value": 3
+                    },
+                    {
+                        "borders": [
+                            123,
+                            125
+                        ],
+                        "value": 2
+                    },
+                    {
+                        "borders": [
+                            125,
+                            128
+                        ],
+                        "value": 1
+                    }
+                ]
+            },
+            "genre": "[UNK]",
+            "author": "[UNK]"
+        },
+        "n_generate": 10000,
+        "window_size": 2048,
+        "primary_params": {
+            "primary_path": "",
+            "n_tokens": -1,
+            "duration": -1
+        },
+        "sampler_params": {
+            "take_most_probable": false,
+            "control_temperature": false,
+            "std_window": 15
+        },
+        "generate_by_time": true,
+        "presets": {
+            "nnotes": false
+        }
+    },
+    "model_weights": "/storage/arkady/Glinka/music-transformer/video_conditioning/model/epoch_0037.pickle",
+    "random_seed": 10,
+    "saving_options": {
+        "output_dir": "/storage/arkady/Glinka/music-transformer/video_conditioning/best4videos",
+        "output_folder_name": "video_ad14_rs10",
+        "save_params": true,
+        "save_primary": true,
+        "save_mp3": true
+    }
+}

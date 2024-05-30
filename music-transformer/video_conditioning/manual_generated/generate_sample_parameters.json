@@ -1,0 +1,39 @@
+{
+    "force_cpu": false,
+    "generation_params": {
+        "additional_features_params": {
+            "timing": 6000,
+            "nnotes": {
+                "enable": true,
+                "preset": null
+            },
+            "genre": "[UNK]",
+            "author": "[UNK]"
+        },
+        "n_generate": 10000,
+        "window_size": 2048,
+        "primary_params": {
+            "primary_path": "/home/black_chick/music-transformer/Article/original_tracks/Boom.midi",
+            "n_tokens": -1,
+            "duration": 10
+        },
+        "sampler_params": {
+            "take_most_probable": false,
+            "control_temperature": false,
+            "std_window": 15
+        },
+        "generate_by_time": true,
+        "presets": {
+            "nnotes": false
+        }
+    },
+    "model_weights": "/data/transformer-production/model/epoch_0037.pickle",
+    "random_seed": 0,
+    "saving_options": {
+        "output_dir": "generation/generated_samples/",
+        "output_folder_name": "sample_9",
+        "save_params": true,
+        "save_primary": true,
+        "save_mp3": true
+    }
+}

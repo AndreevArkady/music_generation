@@ -1,0 +1,17 @@
+{
+    "dataset_root": "/storage/arkady/Glinka/music-transformer/video_conditioning/e_piano_small_kek",
+    "max_length": null,
+    "additional_features_params": {
+        "global": {
+            "genre": true,
+            "author": true
+        },
+        "local": {
+            "timing": true,
+            "nnotes": true,
+            "token_type": false,
+            "note_type": false,
+            "notes_duration": false
+        }
+    }
+}
